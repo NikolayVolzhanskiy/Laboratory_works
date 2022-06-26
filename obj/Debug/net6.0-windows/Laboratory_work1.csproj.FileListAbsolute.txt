@@ -1,0 +1,54 @@
+C:\Users\adher\source\repos\Laboratory_work1\bin\Debug\net6.0-windows\Laboratory_work1.exe
+C:\Users\adher\source\repos\Laboratory_work1\bin\Debug\net6.0-windows\Laboratory_work1.deps.json
+C:\Users\adher\source\repos\Laboratory_work1\bin\Debug\net6.0-windows\Laboratory_work1.runtimeconfig.json
+C:\Users\adher\source\repos\Laboratory_work1\bin\Debug\net6.0-windows\Laboratory_work1.dll
+C:\Users\adher\source\repos\Laboratory_work1\bin\Debug\net6.0-windows\ref\Laboratory_work1.dll
+C:\Users\adher\source\repos\Laboratory_work1\bin\Debug\net6.0-windows\Laboratory_work1.pdb
+C:\Users\adher\source\repos\Laboratory_work1\obj\Debug\net6.0-windows\Laboratory_work1.csproj.AssemblyReference.cache
+C:\Users\adher\source\repos\Laboratory_work1\obj\Debug\net6.0-windows\Laboratory_work1.Form1.resources
+C:\Users\adher\source\repos\Laboratory_work1\obj\Debug\net6.0-windows\Laboratory_work1.Properties.Resources.resources
+C:\Users\adher\source\repos\Laboratory_work1\obj\Debug\net6.0-windows\Laboratory_work1.csproj.GenerateResource.cache
+C:\Users\adher\source\repos\Laboratory_work1\obj\Debug\net6.0-windows\Laboratory_work1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adher\source\repos\Laboratory_work1\obj\Debug\net6.0-windows\Laboratory_work1.AssemblyInfoInputs.cache
+C:\Users\adher\source\repos\Laboratory_work1\obj\Debug\net6.0-windows\Laboratory_work1.AssemblyInfo.cs
+C:\Users\adher\source\repos\Laboratory_work1\obj\Debug\net6.0-windows\Laboratory_work1.csproj.CoreCompileInputs.cache
+C:\Users\adher\source\repos\Laboratory_work1\obj\Debug\net6.0-windows\Laboratory_work1.dll
+C:\Users\adher\source\repos\Laboratory_work1\obj\Debug\net6.0-windows\ref\Laboratory_work1.dll
+C:\Users\adher\source\repos\Laboratory_work1\obj\Debug\net6.0-windows\Laboratory_work1.pdb
+C:\Users\adher\source\repos\Laboratory_work1\obj\Debug\net6.0-windows\Laboratory_work1.genruntimeconfig.cache
+D:\Documents\Учёба Лобач\Компьютерная графика\Laboratory_work1\bin\Debug\net6.0-windows\Laboratory_work1.exe
+D:\Documents\Учёба Лобач\Компьютерная графика\Laboratory_work1\bin\Debug\net6.0-windows\Laboratory_work1.deps.json
+D:\Documents\Учёба Лобач\Компьютерная графика\Laboratory_work1\bin\Debug\net6.0-windows\Laboratory_work1.runtimeconfig.json
+D:\Documents\Учёба Лобач\Компьютерная графика\Laboratory_work1\bin\Debug\net6.0-windows\Laboratory_work1.dll
+D:\Documents\Учёба Лобач\Компьютерная графика\Laboratory_work1\bin\Debug\net6.0-windows\ref\Laboratory_work1.dll
+D:\Documents\Учёба Лобач\Компьютерная графика\Laboratory_work1\bin\Debug\net6.0-windows\Laboratory_work1.pdb
+D:\Documents\Учёба Лобач\Компьютерная графика\Laboratory_work1\obj\Debug\net6.0-windows\Laboratory_work1.csproj.AssemblyReference.cache
+D:\Documents\Учёба Лобач\Компьютерная графика\Laboratory_work1\obj\Debug\net6.0-windows\Laboratory_work1.Form1.resources
+D:\Documents\Учёба Лобач\Компьютерная графика\Laboratory_work1\obj\Debug\net6.0-windows\Laboratory_work1.Properties.Resources.resources
+D:\Documents\Учёба Лобач\Компьютерная графика\Laboratory_work1\obj\Debug\net6.0-windows\Laboratory_work1.csproj.GenerateResource.cache
+D:\Documents\Учёба Лобач\Компьютерная графика\Laboratory_work1\obj\Debug\net6.0-windows\Laboratory_work1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Учёба Лобач\Компьютерная графика\Laboratory_work1\obj\Debug\net6.0-windows\Laboratory_work1.AssemblyInfoInputs.cache
+D:\Documents\Учёба Лобач\Компьютерная графика\Laboratory_work1\obj\Debug\net6.0-windows\Laboratory_work1.AssemblyInfo.cs
+D:\Documents\Учёба Лобач\Компьютерная графика\Laboratory_work1\obj\Debug\net6.0-windows\Laboratory_work1.csproj.CoreCompileInputs.cache
+D:\Documents\Учёба Лобач\Компьютерная графика\Laboratory_work1\obj\Debug\net6.0-windows\Laboratory_work1.dll
+D:\Documents\Учёба Лобач\Компьютерная графика\Laboratory_work1\obj\Debug\net6.0-windows\ref\Laboratory_work1.dll
+D:\Documents\Учёба Лобач\Компьютерная графика\Laboratory_work1\obj\Debug\net6.0-windows\Laboratory_work1.pdb
+D:\Documents\Учёба Лобач\Компьютерная графика\Laboratory_work1\obj\Debug\net6.0-windows\Laboratory_work1.genruntimeconfig.cache
+D:\Documents\Учёба Лобач\Компьютерная графика\Laboratory_works\bin\Debug\net6.0-windows\Laboratory_work1.exe
+D:\Documents\Учёба Лобач\Компьютерная графика\Laboratory_works\bin\Debug\net6.0-windows\Laboratory_work1.deps.json
+D:\Documents\Учёба Лобач\Компьютерная графика\Laboratory_works\bin\Debug\net6.0-windows\Laboratory_work1.runtimeconfig.json
+D:\Documents\Учёба Лобач\Компьютерная графика\Laboratory_works\bin\Debug\net6.0-windows\Laboratory_work1.dll
+D:\Documents\Учёба Лобач\Компьютерная графика\Laboratory_works\bin\Debug\net6.0-windows\ref\Laboratory_work1.dll
+D:\Documents\Учёба Лобач\Компьютерная графика\Laboratory_works\bin\Debug\net6.0-windows\Laboratory_work1.pdb
+D:\Documents\Учёба Лобач\Компьютерная графика\Laboratory_works\obj\Debug\net6.0-windows\Laboratory_work1.csproj.AssemblyReference.cache
+D:\Documents\Учёба Лобач\Компьютерная графика\Laboratory_works\obj\Debug\net6.0-windows\Laboratory_work1.Form1.resources
+D:\Documents\Учёба Лобач\Компьютерная графика\Laboratory_works\obj\Debug\net6.0-windows\Laboratory_work1.Properties.Resources.resources
+D:\Documents\Учёба Лобач\Компьютерная графика\Laboratory_works\obj\Debug\net6.0-windows\Laboratory_work1.csproj.GenerateResource.cache
+D:\Documents\Учёба Лобач\Компьютерная графика\Laboratory_works\obj\Debug\net6.0-windows\Laboratory_work1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Учёба Лобач\Компьютерная графика\Laboratory_works\obj\Debug\net6.0-windows\Laboratory_work1.AssemblyInfoInputs.cache
+D:\Documents\Учёба Лобач\Компьютерная графика\Laboratory_works\obj\Debug\net6.0-windows\Laboratory_work1.AssemblyInfo.cs
+D:\Documents\Учёба Лобач\Компьютерная графика\Laboratory_works\obj\Debug\net6.0-windows\Laboratory_work1.csproj.CoreCompileInputs.cache
+D:\Documents\Учёба Лобач\Компьютерная графика\Laboratory_works\obj\Debug\net6.0-windows\Laboratory_work1.dll
+D:\Documents\Учёба Лобач\Компьютерная графика\Laboratory_works\obj\Debug\net6.0-windows\ref\Laboratory_work1.dll
+D:\Documents\Учёба Лобач\Компьютерная графика\Laboratory_works\obj\Debug\net6.0-windows\Laboratory_work1.pdb
+D:\Documents\Учёба Лобач\Компьютерная графика\Laboratory_works\obj\Debug\net6.0-windows\Laboratory_work1.genruntimeconfig.cache
